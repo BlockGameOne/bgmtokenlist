@@ -1,0 +1,69 @@
+{
+   "name": "BlockGameCity",
+   "logoURI": "http://blockgame.city/logocity.png",
+   "keywords": [
+      "defi",
+      "BlockGame",
+      "special tokens"
+   ],
+   "tags": {
+      "tokens": {
+         "name": "Top Tokens",
+         "description": "Top tokens by Market Cap"
+      },
+      "yield": {
+         "name": "Yield Farming",
+         "description": "Liquidity reward tokens"
+      },
+      "coinbase": {
+         "name": "Coinbase Review",
+         "description": "DeFi assets currently under review for listing on Coinbase"
+      },
+      "layer2": {
+         "name": "Layer 2 Tokens",
+         "description": "Tokens building second layer networks to scale Ethereum"
+      }
+   },
+   "timestamp": "2020-08-25T00:00:00+00:00",
+   "tokens": [
+      {
+         "chainId": 1,
+         "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+         "symbol": "LINK",
+         "name": "Chainlink",
+         "decimals": 18,
+         "logoURI": "https://s3.amazonaws.com/token-icons/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+         "tags": [
+            "tokens"
+         ]
+      },
+      
+      {
+         "chainId": 1,
+         "address": "0x6Dd2C1b1BA3fD53504fac1B15B0B76D52064bF8f",
+         "symbol": "BGM",
+         "name": "Blockgame.one",
+         "decimals": 18,
+         "logoURI": "http://blockgame.city/logobgm.png",
+         "tags": [
+            "tokens"
+         ]
+      },
+      {
+         "chainId": 1,
+         "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+         "symbol": "RDNN",
+         "name": "Raiden Token",
+         "decimals": 18,
+         "logoURI": "https://token-icons.s3.amazonaws.com/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6.png",
+         "tags": [
+            "layer2"
+         ]
+      }
+   ],
+   "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+   }
+}
